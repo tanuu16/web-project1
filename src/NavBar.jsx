@@ -1,6 +1,6 @@
 import { Link } from 'react-scroll'; 
 import React, {useEffect,useState} from 'react'
-import './Navbar.css'
+import './NavBar.css'
 import logo from '/src/assets/logo.png'; 
 import menu_icon from '/src/assets/menu-icon.png'; 
 
