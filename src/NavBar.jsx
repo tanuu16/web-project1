@@ -1,4 +1,4 @@
-import { Link } from 'react-scroll'; 
+import { Link } from 'react-scroll/modules'; 
 import React, {useEffect,useState} from 'react'
 import './NavBar.css'
 import logo from '/src/assets/logo.png'; 
